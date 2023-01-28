@@ -1,15 +1,15 @@
 <p align=center>
   <br>
-  <span>Phicomm K2P Openwrt Autobuild | 斐讯 K2P Openwrt 自动编译（每周一早8点）</span>
+  <span>Phicomm K2P Openwrt Autobuild | 斐讯 K2P Openwrt 自动编译（每月6号早上4点）</span>
   <br>
   <span>Customize your own OpenWrt firmware for Phicomm K2P using Github Actions.</span>
   <br>
   <br>
   <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE"></a>
-  <a target="_blank" href="https://github.com/tjuyy/Phicomm-K2P-Openwrt-Autobuild/stargazers" title="Stars"><img src="https://img.shields.io/github/stars/tjuyy/Phicomm-K2P-Openwrt-Autobuild.svg?style=flat-square&label=Stars"></a>
-  <a target="_blank" href="https://github.com/tjuyy/Phicomm-K2P-Openwrt-Autobuild/fork" title="Forks"><img src="https://img.shields.io/github/forks/tjuyy/Phicomm-K2P-Openwrt-Autobuild.svg?style=flat-square&label=Forks"></a>
+  <a target="_blank" href="https://github.com/dingdang66686/Phicomm-K2P-Openwrt-Autobuild/stargazers" title="Stars"><img src="https://img.shields.io/github/stars/dingdang66686/Phicomm-K2P-Openwrt-Autobuild.svg?style=flat-square&label=Stars"></a>
+  <a target="_blank" href="https://github.com/dingdang66686/Phicomm-K2P-Openwrt-Autobuild/fork" title="Forks"><img src="https://img.shields.io/github/forks/dingdang66686/Phicomm-K2P-Openwrt-Autobuild.svg?style=flat-square&label=Forks"></a>
   <br>
-  <a target="_blank" href="https://github.com/tjuyy/Phicomm-K2P-Openwrt-Autobuild/actions" title="GitHub Actions Workflow Status"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/tjuyy/Phicomm-K2P-Openwrt-Autobuild/Build%20OpenWrt%20for%20K2P?style=for-the-badge"></a>
+  <a target="_blank" href="https://github.com/dingdang66686/Phicomm-K2P-Openwrt-Autobuild/actions" title="GitHub Actions Workflow Status"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/dingdang66686/Phicomm-K2P-Openwrt-Autobuild/Build%20OpenWrt%20for%20K2P?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -51,10 +51,7 @@
 
 ### Network
 - IPv6
-- NAT6
-- Shadowsocks
-- V2Ray
-- Trojan
+- Bypass
 
 ### Tools
 - htop
@@ -62,10 +59,9 @@
 - wget
 - iperf3
 - tcpdump
-- luci-app-commands
+- luci-app-ddns
+- luci-app-dnsfilter
 - luci-app-ttyd
-- luci-app-webadmin
-- luci-app-wrtbwmon
 
 ## Acknowledgments
 
@@ -76,8 +72,9 @@
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 - [P3TERX/debugger-action](https://github.com/P3TERX/debugger-action)
 - [skytotwo/NanoPi-R1S-Build-By-Actions](https://github.com/skytotwo/NanoPi-R1S-Build-By-Actions)
+- [tjuyy/Phicomm-K2P-Openwrt-AutoBuild](https://github.com/tjuyy/Phicomm-K2P-Openwrt-Autobuild)
 
 ## License
 
-MIT © [tjuyy](https://github.com/tjuyy)
+MIT © [dingdang66686](https://github.com/dingdang66686)
 
